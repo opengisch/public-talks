@@ -1,0 +1,42 @@
+/* custom-theme.css */
+/* @theme custom-theme */
+
+@import 'default';
+
+section {
+  /* Override default background */
+  background-image: './assets/openGIS-logo-round-green-no-text-bg-cut-white.svg';  
+  background-color: #80CC28;
+}
+
+h1 {
+  font-size: 150px;
+  color: white;
+  text-align: left;
+}
+
+h2 {
+  font-size: 150px;
+  color: #008cff;
+  text-align: left;
+}
+
+h3 {
+  font-size: 100px;
+  color: white;
+  text-align: left;
+}
+
+h4 {
+  font-size: 100px;
+  color: #008cff;
+  text-align: left;
+}
+
+h5 {
+  font-size: 150px;
+  text-shadow: 4px 4px 4px #008cff;
+  color: white;
+  text-align: center;  
+}
+
