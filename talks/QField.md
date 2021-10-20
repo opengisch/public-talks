@@ -115,6 +115,122 @@ theme: custom-theme
 
 ---
 
-![autoplay loop muted](./assets/video/browse-constrains.mp4)
+![](./assets/video/form_widgets.webm)
+
+---
+
+![](./assets/video/conditional_visibility.webm)
+
+---
+
+![](./assets/video/live_default.webm)
+
+---
+
+## Camera and special widgets
+
+---
+
+![](./assets/video/camera_file.webm)
+
+---
+
+![](./assets/video/qml_html.webm)
+
+---
+
+## Multi Attribute Editing
+
+---
+
+![](./assets/video/multi_editing.webm)
+
+---
+
+## Relation integration
+
+---
+
+![](./assets/video/relation_widgets.webm)
+
+---
+
+![](./assets/video/ordered_releation.webm)
+
+---
+
+![](./assets/video/autocomplete.webm)
+
+---
+
+## Opening of individual datasets
+
+---
+
+![](./assets/video/opening_individual_vector.webm)
+
+---
+
+![](./assets/video/opening_individual_raster.webm)
+
+---
+
+## Mapthemes
+
+---
+
+![](./assets/video/theme.webm)
+
+---
+
+## Search for Attributes and Coordinates
+
+---
+
+![](./assets/video/search.webm)
+
+---
+
+## Measuring tool
+
+---
+
+![](./assets/video/measuring.webm)
+
+---
+
+## Geometry editing and drawing
+
+---
+
+![](./assets/video/edit_geom.webm)
+
+---
+
+![](./assets/video/edit_topo.webm)
+
+---
+
+![](./assets/video/freehand_drawing.webm)
+
+---
+
+## GNSS and tracking
+
+---
+
+![](./assets/video/tracking.webm)
+
+---
+
+![](./assets/video/NMEA.webm)
+
+---
+
+## Print Atlas to PDF
+
+---
+
+![](./assets/video/print_pdf.webm)
 
 ---
