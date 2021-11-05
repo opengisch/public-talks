@@ -234,3 +234,59 @@ theme: custom-theme
 ![](./assets/video/print_pdf.webm)
 
 ---
+
+![bg](./assets/real_cloud.jpg)
+
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+![w:900 center](./assets/logo_horizontal.png)
+
+---
+
+![bg](./assets/windows_crop.jpg)
+
+##### QField on Windows
+
+---
+
+![bg](./assets/ipad_crop.jpg)
+
+##### QField on iOS
+
+---
+
+![bg](./assets/ipad_crop.jpg)
+
+##### qfield.org/get
+
+---
+
+![bg](./assets/taivaskero.jpg)
+
+##### Taivaskero
+##### 400k downloads
+##### 110k monthly users
+
+---
+
+![bg](./assets/qfield_love.png)
+
+##### Join the effort
+
+---
+
+![bg](./assets/customer.JPG)
+
+##### Your custom app
+
+---
+
+### Thanks! Questions?
+### qfield.org | qfield.cloud
+### @opengisch
+### info@opengis.ch
