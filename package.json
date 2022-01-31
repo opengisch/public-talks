@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "github-markdown-css": "^4.0.0",
-    "markdown-it-html5-media": "^0.7.0"
+    "markdown-it-html5-media": "^0.7.1"
   }
 }
