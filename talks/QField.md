@@ -266,9 +266,9 @@ img[alt~="center"] {
 
 ---
 
-![bg](./assets/taivaskero.jpg)
+![bg](./assets/bumblebee.jpg)
 
-##### Taivaskero
+##### Bumblebee
 ##### 400k downloads
 ##### 110k monthly users
 
