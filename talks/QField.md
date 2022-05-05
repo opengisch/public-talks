@@ -106,6 +106,49 @@ theme: custom-theme
 
 ---
 
+## Workflows
+
+---
+
+![w: 100% h:30%](./assets/workflow_browser.png)
+<!-- see https://excalidraw.com/#json=xudWJENNmWe8KFE0Bvykm,HUFbEvYBbMvfGwTNOjU8tw -->
+
+##### The Browser
+---
+
+![w: 100% h:30%](./assets/workflow_loneranger.png)
+<!-- see https://excalidraw.com/#json=w_pdDlp2P1Vz4BsFVoEJf,NdgGETWi3uiy3N8dyX3jWg -->
+
+
+##### The Lone Ranger
+---
+
+![w: 100% h:30%](./assets/workflow_onlinedb.png)
+<!-- see https://excalidraw.com/#json=A7R83LWIWjlKURIbxhcA5,oRLFmvm84KFV2jxd_sHqHQ -->
+
+##### Multi-User Online
+---
+
+![w: 100% h:30%](./assets/workflow_sync.png)
+<!-- see https://excalidraw.com/#json=FpIfkDHzrmcjlzovTTQCP,W7avUQwemNmjxdGn-UoHxw -->
+
+##### Multi-User Offline
+---
+
+![w: 100% h:30%](./assets/workflow_cloud.png)
+<!-- see https://excalidraw.com/#json=UAkpuk9ThyS0gdEOLZ0OJ,_0nMGZRUCRHCk63wQH3ndw -->
+
+##### Cloud
+
+---
+
+![w: 100% h:30%](./assets/workflow_clouddb.png)
+<!-- see https://excalidraw.com/#json=UAkpuk9ThyS0gdEOLZ0OJ,_0nMGZRUCRHCk63wQH3ndw -->
+
+##### Cloud with DB
+
+---
+
 ## What is in
 # QField ?
 
