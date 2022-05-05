@@ -16,6 +16,20 @@ theme: custom-theme
 ### Made in Switzerland
 
 ---
+###### Linda Indra-Camathias
+MSc in Geography @ Uni Bern
+GIS Expert
+Mountain Lover and Mother
+
+###### David Signer
+BSc in Software Engineering @ ZHAW
+Coordinator and QGIS Core Comitter
+Dreamer and Storyteller
+
+![bg right 40%](assets/lindadave.png)
+
+---
+
 
 ## Why
 # QField ?
@@ -83,6 +97,33 @@ theme: custom-theme
 
 ---
 
+![bg](./assets/windows_crop.jpg)
+
+##### QField on Windows
+
+---
+
+![bg](./assets/ipad_crop.jpg)
+
+##### QField on iOS
+
+---
+
+![bg](./assets/ipad_crop.jpg)
+
+##### qfield.org/get
+
+---
+
+![bg](./assets/bumblebee.jpg)
+
+##### Bumblebee
+##### 400k downloads
+##### 110k monthly users
+
+---
+
+
 ## How to work with
 # QField ?
 
@@ -148,7 +189,10 @@ theme: custom-theme
 ##### Cloud with DB
 
 ---
+##### Let's cloud!
+With teams, roles and conflict management.
 
+---
 ## What is in
 # QField ?
 
@@ -278,44 +322,6 @@ theme: custom-theme
 
 ---
 
-![bg](./assets/real_cloud.jpg)
-
-<style>
-img[alt~="center"] {
-  display: block;
-  margin: 0 auto;
-}
-</style>
-
-![w:900 center](./assets/logo_horizontal.png)
-
----
-
-![bg](./assets/windows_crop.jpg)
-
-##### QField on Windows
-
----
-
-![bg](./assets/ipad_crop.jpg)
-
-##### QField on iOS
-
----
-
-![bg](./assets/ipad_crop.jpg)
-
-##### qfield.org/get
-
----
-
-![bg](./assets/bumblebee.jpg)
-
-##### Bumblebee
-##### 400k downloads
-##### 110k monthly users
-
----
 
 ![bg](./assets/qfield_love.png)
 
