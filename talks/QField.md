@@ -51,7 +51,7 @@ Dreamer and Storyteller
 
 ![w: 100% h:30%](./assets/qfield_device_landscape.png)
 
-### The mobile data collection app for QIGS
+### The mobile data collection app for QGIS
 
 ---
 
@@ -179,14 +179,14 @@ Dreamer and Storyteller
 ![w: 100% h:30%](./assets/workflow_cloud.png)
 <!-- see https://excalidraw.com/#json=UAkpuk9ThyS0gdEOLZ0OJ,_0nMGZRUCRHCk63wQH3ndw -->
 
-##### Cloud
+##### QFieldCloud
 
 ---
 
 ![w: 100% h:30%](./assets/workflow_clouddb.png)
 <!-- see https://excalidraw.com/#json=UAkpuk9ThyS0gdEOLZ0OJ,_0nMGZRUCRHCk63wQH3ndw -->
 
-##### Cloud with DB
+##### QFieldCloud with Database
 
 ---
 ##### Let's cloud!
