@@ -30,6 +30,21 @@ Dreamer and Storyteller
 
 ---
 
+### Teil 1 ☕
+- Über QField (Präsi)
+- Konfiguration auf QGIS (Demo)
+- QField Cloud (Demo)
+- Arbeiten mit QField (Demo)
+
+---
+
+### Teil 2 🌲
+- Let's play (Übungen draussen)
+- Synchronisation (Demo / Übung)
+- Weitere Features von QField (Demo)
+- Schluss und Fragen
+---
+
 
 ## Why
 # QField ?
@@ -154,43 +169,57 @@ Dreamer and Storyteller
 ![w: 100% h:30%](./assets/workflow_browser.png)
 <!-- see https://excalidraw.com/#json=xudWJENNmWe8KFE0Bvykm,HUFbEvYBbMvfGwTNOjU8tw -->
 
-##### The Browser
+### The Browser
 ---
 
 ![w: 100% h:30%](./assets/workflow_loneranger.png)
 <!-- see https://excalidraw.com/#json=w_pdDlp2P1Vz4BsFVoEJf,NdgGETWi3uiy3N8dyX3jWg -->
 
 
-##### The Lone Ranger
+### The Lone Ranger
 ---
 
 ![w: 100% h:30%](./assets/workflow_onlinedb.png)
 <!-- see https://excalidraw.com/#json=A7R83LWIWjlKURIbxhcA5,oRLFmvm84KFV2jxd_sHqHQ -->
 
-##### Multi-User Online
+### Multi-User Online
 ---
 
 ![w: 100% h:30%](./assets/workflow_sync.png)
 <!-- see https://excalidraw.com/#json=FpIfkDHzrmcjlzovTTQCP,W7avUQwemNmjxdGn-UoHxw -->
 
-##### Multi-User Offline
+### Multi-User Offline
 ---
 
 ![w: 100% h:30%](./assets/workflow_cloud.png)
 <!-- see https://excalidraw.com/#json=UAkpuk9ThyS0gdEOLZ0OJ,_0nMGZRUCRHCk63wQH3ndw -->
 
-##### QFieldCloud
+### QFieldCloud
 
 ---
 
 ![w: 100% h:30%](./assets/workflow_clouddb.png)
 <!-- see https://excalidraw.com/#json=UAkpuk9ThyS0gdEOLZ0OJ,_0nMGZRUCRHCk63wQH3ndw -->
 
-##### QFieldCloud with Database
+### QFieldCloud with DB
 
 ---
-##### Let's cloud!
-###### teams, roles and conflict management.
+### So let's cloud!
+
+#### With Teams, roles and conflict management.
+---
+
+## QField Feature Frenzy
+---
+
+### Live Demo
+---
+
+### [Freihandzeichnen](https://qfield.org/docs/fieldwork/digitize.html#freehand-digitizing) 🎥
+
+---
+
+### [Line tracking](https://qfield.org/docs/fieldwork/track_lines_polygons.html?highlight=tracking#track-lines-and-polygons) 🎥
 
 ---
 
