@@ -16,6 +16,35 @@ theme: custom-theme
 ### Made in Switzerland
 
 ---
+###### Linda Indra-Camathias
+MSc in Geography @ Uni Bern
+GIS Expert
+Mountain Lover and Mother
+
+###### David Signer
+BSc in Software Engineering @ ZHAW
+Coordinator and QGIS Core Comitter
+Dreamer and Storyteller
+
+![bg right 40%](assets/lindadave.png)
+
+---
+
+### Teil 1 ☕
+- Über QField (Präsi)
+- Konfiguration auf QGIS (Demo)
+- QField Cloud (Demo)
+- Arbeiten mit QField (Demo)
+
+---
+
+### Teil 2 🌲
+- Let's play (Übungen draussen)
+- Synchronisation (Demo / Übung)
+- Weitere Features von QField (Demo)
+- Schluss und Fragen
+---
+
 
 ## Why
 # QField ?
@@ -37,7 +66,7 @@ theme: custom-theme
 
 ![w: 100% h:30%](./assets/qfield_device_landscape.png)
 
-### The mobile data collection app for QIGS
+### The mobile data collection app for QGIS
 
 ---
 
@@ -83,6 +112,33 @@ theme: custom-theme
 
 ---
 
+![bg](./assets/windows_crop.jpg)
+
+##### QField on Windows
+
+---
+
+![bg](./assets/ipad_crop.jpg)
+
+##### QField on iOS
+
+---
+
+![bg](./assets/ipad_crop.jpg)
+
+##### qfield.org/get
+
+---
+
+![bg](./assets/bumblebee.jpg)
+
+##### Bumblebee
+##### 400k downloads
+##### 110k monthly users
+
+---
+
+
 ## How to work with
 # QField ?
 
@@ -106,183 +162,64 @@ theme: custom-theme
 
 ---
 
-## What is in
-# QField ?
+## Workflows
 
 ---
 
-## Powerful Feature Forms
+![w: 100% h:30%](./assets/workflow_browser.png)
+<!-- see https://excalidraw.com/#json=xudWJENNmWe8KFE0Bvykm,HUFbEvYBbMvfGwTNOjU8tw -->
+
+### The Browser
+---
+
+![w: 100% h:30%](./assets/workflow_loneranger.png)
+<!-- see https://excalidraw.com/#json=w_pdDlp2P1Vz4BsFVoEJf,NdgGETWi3uiy3N8dyX3jWg -->
+
+
+### The Lone Ranger
+---
+
+![w: 100% h:30%](./assets/workflow_onlinedb.png)
+<!-- see https://excalidraw.com/#json=A7R83LWIWjlKURIbxhcA5,oRLFmvm84KFV2jxd_sHqHQ -->
+
+### Multi-User Online
+---
+
+![w: 100% h:30%](./assets/workflow_sync.png)
+<!-- see https://excalidraw.com/#json=FpIfkDHzrmcjlzovTTQCP,W7avUQwemNmjxdGn-UoHxw -->
+
+### Multi-User Offline
+---
+
+![w: 100% h:30%](./assets/workflow_cloud.png)
+<!-- see https://excalidraw.com/#json=UAkpuk9ThyS0gdEOLZ0OJ,_0nMGZRUCRHCk63wQH3ndw -->
+
+### QFieldCloud
 
 ---
 
-![](./assets/video/form_widgets.webm)
+![w: 100% h:30%](./assets/workflow_clouddb.png)
+<!-- see https://excalidraw.com/#json=UAkpuk9ThyS0gdEOLZ0OJ,_0nMGZRUCRHCk63wQH3ndw -->
+
+### QFieldCloud with DB
+
+---
+### So let's cloud!
+
+#### With Teams, roles and conflict management.
+---
+
+## QField Feature Frenzy
+---
+
+### Live Demo
+---
+
+### [Freihandzeichnen](https://qfield.org/docs/fieldwork/digitize.html#freehand-digitizing) 🎥
 
 ---
 
-![](./assets/video/conditional_visibility.webm)
-
----
-
-![](./assets/video/live_default.webm)
-
----
-
-## Camera and special widgets
-
----
-
-![](./assets/video/camera_file.webm)
-
----
-
-![](./assets/video/qml_html.webm)
-
----
-
-## Multi Attribute Editing
-
----
-
-![](./assets/video/multi_editing.webm)
-
----
-
-## Relation integration
-
----
-
-![](./assets/video/relation_widgets.webm)
-
----
-
-![](./assets/video/ordered_releation.webm)
-
----
-
-![](./assets/video/autocomplete.webm)
-
----
-
-## Opening of individual datasets
-
----
-
-![](./assets/video/opening_individual_vector.webm)
-
----
-
-![](./assets/video/opening_individual_raster.webm)
-
----
-
-## Mapthemes
-
----
-
-![](./assets/video/theme.webm)
-
----
-
-## Search for Attributes and Coordinates
-
----
-
-![](./assets/video/search.webm)
-
----
-
-## Measuring tool
-
----
-
-![](./assets/video/measuring.webm)
-
----
-
-## Geometry editing and drawing
-
----
-
-![](./assets/video/edit_geom.webm)
-
----
-
-![](./assets/video/edit_topo.webm)
-
----
-
-![](./assets/video/freehand_drawing.webm)
-
----
-
-## GNSS and tracking
-
----
-
-![](./assets/video/tracking.webm)
-
----
-
-![](./assets/video/NMEA.webm)
-
----
-
-## Print Atlas to PDF
-
----
-
-![](./assets/video/print_pdf.webm)
-
----
-
-![bg](./assets/real_cloud.jpg)
-
-<style>
-img[alt~="center"] {
-  display: block;
-  margin: 0 auto;
-}
-</style>
-
-![w:900 center](./assets/logo_horizontal.png)
-
----
-
-![bg](./assets/windows_crop.jpg)
-
-##### QField on Windows
-
----
-
-![bg](./assets/ipad_crop.jpg)
-
-##### QField on iOS
-
----
-
-![bg](./assets/ipad_crop.jpg)
-
-##### qfield.org/get
-
----
-
-![bg](./assets/taivaskero.jpg)
-
-##### Taivaskero
-##### 400k downloads
-##### 110k monthly users
-
----
-
-![bg](./assets/qfield_love.png)
-
-##### Join the effort
-
----
-
-![bg](./assets/customer.JPG)
-
-##### Your custom app
+### [Line tracking](https://qfield.org/docs/fieldwork/track_lines_polygons.html?highlight=tracking#track-lines-and-polygons) 🎥
 
 ---
 
